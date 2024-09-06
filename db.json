@@ -1,0 +1,14 @@
+{
+    "Productos": [
+        {
+            "id":1,
+            "nombre":"Ryzen 7",
+            "precio":100000
+        },
+        {
+            "id":2,
+            "nombre":"Intel Core i9",
+            "precio":200000
+        }
+    ]
+}
